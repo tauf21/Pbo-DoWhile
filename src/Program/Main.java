@@ -21,7 +21,7 @@ public class Main {
             System.out.println("3. Keluar");
             System.out.print("Pilih: ");
             pil = s.nextInt();
-        } while (pil!=3);
+        } while (pil<=2);
     }
     
 }
